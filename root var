@@ -1,0 +1,42 @@
+</head>
+<body>
+   <div>
+
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ex id, vel consequuntur repellat qui. At sapiente dignissimos culpa fuga maiores quia, sit necessitatibus cum cupiditate aperiam fugiat, autem velit!</p>
+   </div>
+<p>
+
+    heelo 
+    faisal 
+    how are you 
+</p>
+</body>
+</html>
+
+
+:root{
+--color: lightcoral;
+--background-color: blue;
+
+}
+
+div>p{
+    color: var(--color) ;
+}
+
+p {
+color: var(--color);
+background-color: var(--background-color);
+
+}
+
+
+
+
+
+
+
+
+
+
